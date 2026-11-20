@@ -1,0 +1,4 @@
+An algorithm is a finite sequence of clear steps used to solve a problem.
+A data structure organizes information so that a program can access and modify data efficiently.
+A computer network connects devices so they can exchange information and share resources.
+A programming language provides rules for expressing instructions that a computer can execute.
