@@ -1,4 +1,4 @@
-# Educational Content Expander
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/qmsrhz9nuy/badge.svg)](https://msrit.ask.thili.ai/b/qmsrhz9nuy)
 
 A lightweight command-line tool that expands short educational phrases into
 plausible continuations using a locally trained n-gram language model. It runs
